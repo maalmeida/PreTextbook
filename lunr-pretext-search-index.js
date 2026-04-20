@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Section Title",
-  "body": " Section Title  A wave is a disturbance that propogates through space and time, transferring energy and momentum.  So I think the integral       This is a statement    This is a hint    This is the answer    This is the solution.    "
+  "body": " Section Title  A pulse is a single, non-repeating disturbance that propagates through space and time, transferring energy and momentum.  A wave is a continuous, periodic succession of pulses.  So I think the integral       This is a statement    This is a hint    This is the answer    This is the solution.    "
 },
 {
   "id": "sec-section-name2-2",
@@ -43,12 +43,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "pulse "
+},
+{
+  "id": "sec-section-name2-3",
+  "level": "2",
+  "url": "sec-section-name2.html#sec-section-name2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "wave "
 },
 {
-  "id": "sec-section-name2-4",
+  "id": "sec-section-name2-5",
   "level": "2",
-  "url": "sec-section-name2.html#sec-section-name2-4",
+  "url": "sec-section-name2.html#sec-section-name2-5",
   "type": "Checkpoint",
   "number": "2.1.1",
   "title": "",

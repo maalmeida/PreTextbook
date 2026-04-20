@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section Title",
-  "body": " Section Title  Text of section.        This is a statement    This is a hint    This is the answer    This is the solution.    "
+  "body": " Section Title  Text of section.  So I think the integral       This is a statement    This is a hint    This is the answer    This is the solution.    "
 },
 {
   "id": "sec-section-name-4",
@@ -24,6 +24,33 @@ var ptx_lunr_docs = [
   "url": "sec-section-name.html#sec-section-name-4",
   "type": "Checkpoint",
   "number": "1.1.1",
+  "title": "",
+  "body": "  This is a statement    This is a hint    This is the answer    This is the solution.   "
+},
+{
+  "id": "sec-section-name2",
+  "level": "1",
+  "url": "sec-section-name2.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Section Title",
+  "body": " Section Title  A wave is a disturbance that propogates through space and time, transferring energy and momentum.  So I think the integral       This is a statement    This is a hint    This is the answer    This is the solution.    "
+},
+{
+  "id": "sec-section-name2-2",
+  "level": "2",
+  "url": "sec-section-name2.html#sec-section-name2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "wave "
+},
+{
+  "id": "sec-section-name2-4",
+  "level": "2",
+  "url": "sec-section-name2.html#sec-section-name2-4",
+  "type": "Checkpoint",
+  "number": "2.1.1",
   "title": "",
   "body": "  This is a statement    This is a hint    This is the answer    This is the solution.   "
 },

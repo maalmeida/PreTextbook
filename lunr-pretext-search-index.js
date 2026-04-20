@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Section Title",
-  "body": " Section Title  A pulse is a single, non-repeating disturbance that propagates through space and time, transferring energy and momentum.  A wave is a continuous, periodic succession of pulses.   description  wave-driver-1.png   So I think the integral       This is a statement    This is a hint    This is the answer    This is the solution.    "
+  "body": " Section Title  A pulse is a single, non-repeating disturbance that propagates through space and time, transferring energy and momentum.  A wave is a continuous, periodic succession of pulses.    So I think the integral       This is a statement    This is a hint    This is the answer    This is the solution.    "
 },
 {
   "id": "sec-section-name2-2",
